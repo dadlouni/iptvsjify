@@ -1,2 +1,1 @@
-# iptvsjify
-A
+catchup="shift" catchup-days="5"

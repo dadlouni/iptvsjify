@@ -370,7 +370,7 @@ http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38292.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LEBANON TV" tvg-logo="https://logo.ott.ma/logo/lebanon/LEBANON_TV.png" group-title="ARABIC FTA",LEBANON TV
 http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38293.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="https://logo.ott.ma/logo/lebanon/MTV_LEBANON.png" group-title="ARABIC FTA",MTV LEBANON HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38294.m3u8
+http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38294.m3u8 EPG:MTVLebanon.lb
 #EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://logo.ott.ma/logo/lebanon/AL_JADID.png" group-title="ARABIC FTA",AL JADEED
 http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38295.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTV TV" tvg-logo="https://logo.ott.ma/logo/lebanon/OTV.png" group-title="ARABIC FTA",OTV TV
